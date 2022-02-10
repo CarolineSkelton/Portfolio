@@ -105,8 +105,8 @@ a {
   font-size: 24px;
   font-weight: 700;
 }
-a:link     { color: #75DDDD; } 
-a:visited  { color: #508991; }
+a:link     { color: #305e5e; } 
+a:visited  { color: #509171; }
 a:hover    { color: #AF125A; }
 a:active   { color: rgb(199, 87, 139); }
 
