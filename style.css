@@ -38,7 +38,8 @@ p {
 
 footer {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
+  font-weight: 700;
   color: #f5f5f5;
   text-align: center;
 }
